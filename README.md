@@ -13,3 +13,12 @@ Further reading
 
 
 
+
+To do
+* attach shader with attribute
+* attach sky sphere
+* attach direction light and register with lighting system
+
+
+
+
