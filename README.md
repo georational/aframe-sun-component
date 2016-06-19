@@ -7,7 +7,8 @@ Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@render
 
 ``` <a-sun intensity="1" inclination="23.5 azimuth="0" /> ```
 
-  
+   
+   
 
 |Property|Default|Description| 
 |---|---|---|
@@ -20,6 +21,8 @@ Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@render
 |mieBias|   |   | 
 
   
+   
+   
 
 ---
 To do
