@@ -10,12 +10,13 @@ Further reading
 
 ***
 
-```html <script src="js/three.min.js"></script>```
+``` <a-sun intensity="1" inclination="23.5 azimuth="0" ```
 
 
 
 To do
-* attach shader with attribute
+* convert attributes to degrees 
+* attach shader 
 * attach sky sphere
 * attach direction light and register with lighting system
 
