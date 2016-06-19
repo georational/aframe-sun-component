@@ -3,21 +3,23 @@
 
 Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@renderwonk](https://twitter.com/renderwonk?lang=en-gb), [Simon Wallner](https://github.com/SimonWallner), [martinsh](https://github.com/martinsh), [@blurspline](https://github.com/zz85) et al.
 
+  
 
 ``` <a-sun intensity="1" inclination="23.5 azimuth="0" /> ```
 
+  
 
 |Property|Default|Description| 
 |---|---|---|
 |intensity|1|   | 
 |inclination|23.5|   | 
-|azimuth|   |0  | 
+|azimuth| 0 |   | 
 |turbidity|   |   | 
 |rayleighCoefficient|   |   | 
 |mieCoefficient|   |   | 
 |mieBias|   |   | 
 
-
+  
 
 ---
 To do
