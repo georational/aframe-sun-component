@@ -18,8 +18,10 @@ To do
 * convert attributes to degrees 
 * attach shader 
 * attach sky sphere
-* attach direction light and register with lighting system
+* attach directional light and register with lighting system
 
-
-
+***
+Further reading  
+[http://amd-dev.wpengine.netdna-cdn.com/wordpress/media/2012/10/ATI-LightScattering.pdf](http://amd-dev.wpengine.netdna-cdn.com/wordpress/media/2012/10/ATI-LightScattering.pdf)  
+[http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter16.html](http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter16.html)  
 
