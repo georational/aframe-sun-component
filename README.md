@@ -1,8 +1,8 @@
 # aframe-sun-component
 ####[A-Frame](https://github.com/aframevr) component wrapper for [three.js](https://github.com/mrdoob/three.js) atmosphere shader
-
    
-***
+   
+   
 #### Usage
 ``` <a-sun intensity="1" inclination="23.5 azimuth="0" /> ```: Creates skybox with atmospheric shading and directional lighting   
 
