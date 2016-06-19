@@ -1,7 +1,7 @@
 # aframe-sun-component
 ####[A-Frame](https://github.com/aframevr) component wrapper for [three.js](https://github.com/mrdoob/three.js) atmosphere shader
 
-Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@renderwonk](https://twitter.com/renderwonk?lang=en-gb), Simon Wallner](https://github.com/SimonWallner), [martinsh](https://github.com/martinsh), [@blurspline](https://github.com/zz85) et al.   
+Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@renderwonk](https://twitter.com/renderwonk?lang=en-gb), [Simon Wallner](https://github.com/SimonWallner), [martinsh](https://github.com/martinsh), [@blurspline](https://github.com/zz85) et al.   
    
 ***
 #### Usage
