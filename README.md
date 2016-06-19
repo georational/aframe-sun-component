@@ -5,7 +5,7 @@ Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@render
 
   
 
-* ``` <a-sun intensity="1" inclination="23.5 azimuth="0" /> ```: Create skybox with real-time atmospheric shading and lighting
+* ``` <a-sun intensity="1" inclination="23.5 azimuth="0" /> ```: Create skybox with atmospheric shading and lighting
 
    
    
