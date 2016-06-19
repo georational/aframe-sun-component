@@ -10,7 +10,7 @@ Further reading
 
 ***
 
-``` <a-sun intensity="1" inclination="23.5 azimuth="0" ```
+``` <a-sun intensity="1" inclination="23.5 azimuth="0" /> ```
 
 
 
