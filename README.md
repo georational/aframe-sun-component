@@ -1,13 +1,11 @@
 # aframe-sun-component
 ###[A-Frame](https://github.com/aframevr) component wrapper for [three.js](https://github.com/mrdoob/three.js) atmosphere shader
 
-Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@renderwonk](https://twitter.com/renderwonk?lang=en-gb), [Simon Wallner](https://github.com/SimonWallner), [martinsh](https://github.com/martinsh), [@blurspline](https://github.com/zz85) et al.
-
-  
-
-* ``` <a-sun intensity="1" inclination="23.5 azimuth="0" /> ```: Create skybox with atmospheric shading and lighting
-
+Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@renderwonk](https://twitter.com/renderwonk?lang=en-gb), [Simon Wallner](https://github.com/SimonWallner), [martinsh](https://github.com/martinsh), [@blurspline](https://github.com/zz85) et al.   
    
+   
+* ``` <a-sun intensity="1" inclination="23.5 azimuth="0" /> ```: Create skybox with atmospheric shading and lighting   
+
    
 
 |Property|Default|Description| 
@@ -18,10 +16,8 @@ Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@render
 |turbidity|   |   | 
 |rayleighCoefficient|   |   | 
 |mieCoefficient|   |   | 
-|mieBias|   |   | 
+|mieBias|   |   |   
 
-  
-   
    
 
 ---
