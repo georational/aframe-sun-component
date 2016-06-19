@@ -23,7 +23,8 @@
 * convert attributes to degrees 
 * attach shader 
 * attach sky sphere
-* attach directional light and register with lighting system   
+* attach directional light and register with lighting system
+* let colour of sun disc drive dir light colour
 
 ***
 Atmospheric scattering shader for GLSL based on work by Arcot Preetham, [@renderwonk](https://twitter.com/renderwonk?lang=en-gb), [Simon Wallner](https://github.com/SimonWallner), [martinsh](https://github.com/martinsh), [@blurspline](https://github.com/zz85) et al.  
