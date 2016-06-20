@@ -4,7 +4,7 @@
    
    
 #### Usage
-``` <a-sun intensity="1" inclination="23.5" azimuth="0" /> ```
+``` <a-sun intensity="1" inclination="23.5" azimuth="0" /> ```   
 Creates skybox with atmospheric shading and directional lighting   
 
 
